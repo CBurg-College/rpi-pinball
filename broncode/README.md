@@ -17,16 +17,16 @@ Deze bibliotheek is als het goed is geïnstalleerd (zie bij **installatie/blanco
 De programma-code moet samen werken met de MakeCode-uitbreiding **Flipperkast**.
 De code hiervan vind je in het bestand **main.ts** van de repository **pxt-flipperkast**.
 
-#### Class Video
+#### CLASS VIDEO
 
 De class **Video** biedt de volgende instructies:
 
-**AFSPEELVENSTER**
+**Afspeelvenster**
 * setTitle("Titel van het afspeelvenster");
-* setSize(<breedte>,<hoogte>);
+* setSize(breedte,hoogte);
 * setFullscreen();
 
-**FRAME NA FRAME AFSPELEN**
+**Frame na frame afspelen**
 * start("Bestandsnaam van een video");
 * play()
 * rewind()
@@ -34,25 +34,25 @@ De class **Video** biedt de volgende instructies:
 
 De instructie **play** vertoont steeds het volgende frame.
 
-**HELE VIDEO AFSPELEN**
+**Hele video afspelen**
 * play("Pad naar en bestandsnaam van een video");
 
-**AFBEELDING TONEN**
+**Afbeelding tonen**
 * show("Pad naar en bestandsnaam van een afbeelding");
 
-#### Class RgbLed
+#### CLASS RGBLED
 
 De class **RgbLed** biedt de volgende instructies:
 
-**INSTELLING**
-* setPin(<rood>,<groen>,<blauw>);
+**Instelling**
+* setPin(rood,groen,blauw);
 * setConnection(VCC of GND);
 
-**KLEUR**
+**Kleur**
 * setColor(RED of GREEN of BLUE of YELLOW of MAGENTA of CYAN of WHITE);
-* setColor(<rood>,<groen>,<blauw>);
+* setColor(rood,groen,blauw);
 
-**AAN/UIT**
+**Aan/uit**
 * on();
 * off();
 
