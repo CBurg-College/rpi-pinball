@@ -1,6 +1,8 @@
 ## Hardware herstellen
 
 Een beschrijving van de flipperkast vind je in:
+* **Flipperkast Werktekeningen.pdf**
+Dit bestand geëxporteerd uit:
 * **Flipperkast Werktekeningen.docx**
 
 Om de elektronica van de flipperkast te herstellen, moet je kunnen solderen.
