@@ -19,7 +19,7 @@ Vandaar dat we zijn aangewezen op de versie van 2017.
 In de map **SVG-extension** vind je de plugin waarmee je een svg-bestand kunt exporteren:
 **sketchup-svg-outline-plugin-v1.2.rbz**.
 Installeer de plugin via de **Extension manager** van SketchUp (in het **Window**-menu).
-**SketchUp Make 2017** kun je downloaden van [https://www.filehorse.com/download-sketchup-make-64/
+**SketchUp Make 2017** kun je downloaden van https://www.filehorse.com/download-sketchup-make-64/
 
 #### LightBurn
 
@@ -28,8 +28,8 @@ De lasersnijder moet op de USB-ingang met het pijltje worden aangesloten.
 
 Het bestand **flipper.svg** wordt in **LightBurn** geïmporteerd.
 In deze map vind je twee bestanden waarin dat al is gebeurd:
-* **flipper.lbrn**
-* **flipper20x.lbrn**
+* **flipper.lbrn2**
+* **flipper20x.lbrn2**
 
 Het bestand *flipper20x.lbrn* bevat 20 stuks flippers die uit een plaat van 55x35 cm wordt gesneden.
 Gebruik een plaat triplex (4 mm dik) om de flippers uit te snijden.
