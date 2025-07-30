@@ -2,11 +2,11 @@
 
 #### Introductie
 
-De repositories **pxt-flipperkast** en **rpi-flipperkast** vormen een twee-eenheid.
-Repository **pxt-flipperkast** is een uitbreiding voor **MakeCode** om de **micro:bit** te programmeren.
-Het programma op de **micro:bit** werkt samen met het host-programma **Flipperkast** op de **Raspberry Pi**.
-Repository **rpi-flipperkast** (deze repository dus) bevat de benodigde software en code hiervoor.
-Het programma op de **micro:bit** stuurt de flipperkast dus aan via het programma **Flipperkast**.
+De repositories **pxt-pinball** en **rpi-pinball** vormen een twee-eenheid.
+Repository **pxt-pinball** is een uitbreiding voor **MakeCode** om de **micro:bit** te programmeren.
+Het programma op de **micro:bit** werkt samen met het host-programma **Pinball** op de **Raspberry Pi**.
+Repository **rpi-pinball** (deze repository dus) bevat de benodigde software en code hiervoor.
+Het programma op de **micro:bit** stuurt de flipperkast dus aan via het programma **Pinball**.
 
 #### De submappen
 
